@@ -5617,6 +5617,16 @@
 		)
 		(uuid "6c8f2d95-aaac-471c-9658-912bc9befa90")
 	)
+	(label "123"
+		(at 45.72 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b8e68ce-277a-47db-a9e0-5c3e4a83333f")
+	)
 	(label "Zmigavac"
 		(at 107.95 43.18 0)
 		(effects
